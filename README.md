@@ -48,7 +48,7 @@ Four drives are used to help change the direction of the earthworm.
 To turn right the two motors on the side and opposite to one another work together, one slowing down the other speeding up and therefore causing the turn.
 These calculations can be preprogramed into the microcontroller while manufacturing.
 Drive
-![first segment]("/1st segAssem.JPG")
+![first segment](/"1st segAssem.JPG")
  
 The wheels are connected through continuous silicon rubber tracks to provide grip in different types of soils. Parallel drives work together to provide more power. It can also work in reverse.
 Each drive has a wheelbase of 50mm and wheels of 20mm diameter.
