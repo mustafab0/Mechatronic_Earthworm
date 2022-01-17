@@ -62,7 +62,7 @@ It has a motor of specification- 12V 5Kg-cm 30RPM
 
 Sensors and Microcontrollers
 
-![Sensor_seg](/SensorSeg.jpg)
+![Sensor_seg](/SensorSeg.JPG)
  
 All the instructions are programmed into the micro controller.
 A magnetic sensor is added to provide information about the physical location in 3D space.
@@ -71,7 +71,7 @@ Other Sensors like Humidity sensor and pH sensor can be added.
 
 Irrigation/Fertilizer Segment
 
-![fert_seg](/FertilizerSeg.jpg)
+![fert_seg](/FertlizerSeg.JPG)
  
 This segment is a general design and can be used for both purposes. 
 An aluminium tank is used to store the contents.
@@ -79,11 +79,11 @@ A hole at the top to fill and empty the contents of the tank.
 A stopper is provided at the top to block the hole once the tank is refilled.
 Nozzles are attached at the rear which release the liquid.
 
-![fert_seg2](/FertilizerSeg1.jpg)
+![fert_seg2](/FertilizerSeg1.JPG)
 
 Linkage
 
-![Links](/linksa.jpg)
+![Links](/Linksa.JPG)
  
 Plastic frames are attached at the ends of each segment.
 They are snap fit and therefore can be easily attached and detached.
