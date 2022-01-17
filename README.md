@@ -97,12 +97,12 @@ Additional Features
 	A red LED light will be placed on the electronic segment to send SOS signals in case of getting trapped or battery dying down.
 	As it is a modular design 3rd party manufacturers can come up with newer segments.
 	
-![Bellows](/Bellows.jpg)
+![Bellows](/Bellows.JPG)
 
 Alternative Design Considerations
 
-![Drill](/Space.jpg)
-![Drill2](/AugerDrill.jpg)
+![Drill](/Space.JPG)
+![Drill2](/AugerDrill.JPG)
 
 
 Drilling Torque Calculation
