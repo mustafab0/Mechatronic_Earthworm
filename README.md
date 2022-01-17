@@ -17,11 +17,15 @@ Some Salient features that were defined while designing the project
 	A modular design will also allow different manufacturers to come up with new segments and new applications.
  
 Design Structure
+	
 	While conceptualizing we designed the earthworm to be completely modular.
+	
 	The Mech Earthworm, just like an earthworm, is made up of segments.
+	
 	Each segment has a specific function towards a certain operation.
 	
 The following are the categories of Segments designed
+	
 	Drill (Mandatory)
 	Motor Segment (Mandatory)
 	Electronic/Sensor Segment (Mandatory)
@@ -31,6 +35,7 @@ The following are the categories of Segments designed
 	Drive Segment (Mandatory)
 
 Mechanism
+	
 	Each Segment of the Mech Earthworm performs a particular task.
 	The First Segment is responsible for steering the earthworm in 3D space.
 	Each alternative segment is provided with a drive with motors so as to provide forward and reverse motion as well as providing the feed to the drill.
@@ -43,6 +48,7 @@ Four drives are used to help change the direction of the earthworm.
 To turn right the two motors on the side and opposite to one another work together, one slowing down the other speeding up and therefore causing the turn.
 These calculations can be preprogramed into the microcontroller while manufacturing.
 Drive
+![first segment](/1st segAssem.jpg)
  
 The wheels are connected through continuous silicon rubber tracks to provide grip in different types of soils. Parallel drives work together to provide more power. It can also work in reverse.
 Each drive has a wheelbase of 50mm and wheels of 20mm diameter.
