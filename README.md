@@ -43,68 +43,86 @@ Mechanism
 	The worm can travel up till a depth of 12 inches below ground, which is the more than the maximum ploughing done by tractors.
 
 First Segment
+
+![first segment](/1stsegAssem.JPG)
  
 Four drives are used to help change the direction of the earthworm.
 To turn right the two motors on the side and opposite to one another work together, one slowing down the other speeding up and therefore causing the turn.
 These calculations can be preprogramed into the microcontroller while manufacturing.
+
 Drive
-![first segment](/1stsegAssem.JPG)
+
+![drive](/Drive.JPG)
  
 The wheels are connected through continuous silicon rubber tracks to provide grip in different types of soils. Parallel drives work together to provide more power. It can also work in reverse.
 Each drive has a wheelbase of 50mm and wheels of 20mm diameter.
 It has a motor of specification- 12V 5Kg-cm 30RPM
+
+![drive2](/drivemech.JPG)
+
 Sensors and Microcontrollers
+
+![Sensor_seg](/SensorSeg.jpg)
  
 All the instructions are programmed into the micro controller.
 A magnetic sensor is added to provide information about the physical location in 3D space.
 A communication chip to communicate with the main computer and other earthworms.
 Other Sensors like Humidity sensor and pH sensor can be added.
+
 Irrigation/Fertilizer Segment
+
+![fert_seg](/FertilizerSeg.jpg)
  
 This segment is a general design and can be used for both purposes. 
 An aluminium tank is used to store the contents.
 A hole at the top to fill and empty the contents of the tank.
 A stopper is provided at the top to block the hole once the tank is refilled.
 Nozzles are attached at the rear which release the liquid.
+
+![fert_seg2](/FertilizerSeg1.jpg)
+
 Linkage
+
+![Links](/linksa.jpg)
  
 Plastic frames are attached at the ends of each segment.
 They are snap fit and therefore can be easily attached and detached.
 The spokes that radiate from the centre act as suspension.
 A ball and socket joint provides a large degree of rotation that allows a small radius of turning.
+
 Additional Features
+	
 	For charging of the earthworms Solar charging docks can be placed at various location on the farm. After reaching a certain battery level the Mech earthworms can go there and refill their charge.
 	A visual programming software will be provided to the farmers. The software will have a simple user interface and will not need knowledge of any programming language.
 	A red LED light will be placed on the electronic segment to send SOS signals in case of getting trapped or battery dying down.
 	As it is a modular design 3rd party manufacturers can come up with newer segments.
+	
+![Bellows](/Bellows.jpg)
+
 Alternative Design Considerations
 
-
-
-
-
-
+![Drill](/Space.jpg)
+![Drill2](/AugerDrill.jpg)
 
 
 Drilling Torque Calculation
+	
 	Assume soil is a solid object
 	Assume soil to have isotropic property
 	Feed per tooth fz= 2mm				Feed rate Vf = 30mm/s
-	Number of teeth z = 1						= 1800mm/min
+	Number of teeth z = 1					     = 1800mm/min
 	Feed per revolution f = fz x z = 2mm
 	Speed (rpm) n = Vf/f 
 	        		     = 900 rpm
 
 
-
-
-
 	Specific Cutting force kc1.1 = 400 kN/m2    (Value from Mechanics of Machine Drilling)
-            						 = 0.40 N/mm2
+            			     = 0.40 N/mm2
 	Cut thickness h = fz x sin
-  				    = 0.97128 mm
+  			= 0.97128 mm
+	
 	Kc = kc1.1/ hmc   where mc = 0.25
-          = 0.4029 N/mm2
+           = 0.4029 N/mm2
 	Torque T = (Dc2 x kc x f)/8000        where Dc = 100mm
 		      = 1.0073 Nm
 				or
