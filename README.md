@@ -3,17 +3,24 @@ A futuristic agriculture solution employing swarm robotics to toil, irrigate and
 
 One of the biggest industries in India is the agricultural industry and farmers are regarded as the pride of our nation. However, since the last 4 decades the percentage of farmers have steadily declined. The primary 2 factors for this issue are the lack of gains to the farmers and secondly the conditions and intensity of labour is not properly compensated. To develop a solution for this, an idea of a Mechatronic Earthworm was put forward in the National Design competition – Aakruti 2016, in the category of Futuristic Agriculture. 
 ![Earthworm](/Earthworm.jpg)
+
 Some Salient features that were defined while designing the project
+	
 	A tiny robot that works harmoniously with dozens of its kind.
+	
 	It can be used individually or in a whole group collectively to accomplish a task like ploughing, irrigating, fertilizing the field.
+	
 	The goal of our designing was to keep it modular. 
+	
 	Easy replacement, repairing, servicing and maintenance.
+	
 	A modular design will also allow different manufacturers to come up with new segments and new applications.
  
 Design Structure
 	While conceptualizing we designed the earthworm to be completely modular.
 	The Mech Earthworm, just like an earthworm, is made up of segments.
 	Each segment has a specific function towards a certain operation.
+	
 The following are the categories of Segments designed
 	Drill (Mandatory)
 	Motor Segment (Mandatory)
@@ -22,18 +29,6 @@ The following are the categories of Segments designed
 	Irrigation Segment (Optional)
 	Battery Segment (Mandatory)
 	Drive Segment (Mandatory)
-
-
-
-
-
-
-
-
-
-
-
-
 
 Mechanism
 	Each Segment of the Mech Earthworm performs a particular task.
