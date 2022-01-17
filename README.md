@@ -2,6 +2,7 @@
 A futuristic agriculture solution employing swarm robotics to toil, irrigate and fertilize farms
 
 One of the biggest industries in India is the agricultural industry and farmers are regarded as the pride of our nation. However, since the last 4 decades the percentage of farmers have steadily declined. The primary 2 factors for this issue are the lack of gains to the farmers and secondly the conditions and intensity of labour is not properly compensated. To develop a solution for this, an idea of a Mechatronic Earthworm was put forward in the National Design competition – Aakruti 2016, in the category of Futuristic Agriculture. 
+![Earthworm](/Earthworm.jpg)
 Some Salient features that were defined while designing the project
 	A tiny robot that works harmoniously with dozens of its kind.
 	It can be used individually or in a whole group collectively to accomplish a task like ploughing, irrigating, fertilizing the field.
